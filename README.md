@@ -6,6 +6,6 @@ Competition Link - https://www.kaggle.com/competitions/sentiment-analysis-on-mov
 
 bert tokeniser was used
 
-model consisted of bert transformer layer.
+model consisted of bert transformer layer whic was trained using kaggle tpu accelerator.
 
 Accuracy of 0.71 was achieved. This was very impressive as winner of competition had an accuracy of 0.76.
